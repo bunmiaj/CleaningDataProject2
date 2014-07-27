@@ -1,0 +1,17 @@
+# ASSIGNMENT CODE
+
+# Getting and Cleaning Data Course Project 2
+# Olubunmi Ajala
+# 26-07-2014
+
+# Description of the run_analysis.R file
+
+# The "run_analysis.R script will perform the underlisted tasks:
+# 1. Download UCI HAR Dataset from https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
+# 2. Combine the training datasets
+# 3. Combine the test datasets
+# 4. Merge the training datasets and the test datasets
+# 5. Extract only the measurements on the mean and standard deviation for each measurement. 
+# 6. Use descriptive activity names to name the activities in the data set
+# 7. Appropriately label the data set with descriptive activity names. 
+# 8. Creates a second, independent tidy data set with the average of each variable for each activity and each subject. 
